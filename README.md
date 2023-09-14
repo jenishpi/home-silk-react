@@ -17,8 +17,9 @@ npm i
 
 In `.env`:
 
+In case your api running on different URL then replace here
 ```js
- REACT_APP_API_URL = ''; // API URI
+ REACT_APP_API_URL = 'http://localhost:8080'; // API URI
 ```
 
 Then run this command to start your local server
